@@ -1,0 +1,1229 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%@ of %@" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ de %2$@"
+          }
+        }
+      }
+    },
+    "%@ returned an error (HTTP %lld)." : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ retornou um erro (HTTP %2$lld)."
+          }
+        }
+      }
+    },
+    "A metric I choose" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uma métrica que eu escolher"
+          }
+        }
+      }
+    },
+    "API models" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Modelos de API"
+          }
+        }
+      }
+    },
+    "About" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sobre"
+          }
+        }
+      }
+    },
+    "Accounts" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Contas"
+          }
+        }
+      }
+    },
+    "Add Key…" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Adicionar Chave…"
+          }
+        }
+      }
+    },
+    "Add an OpenAI Admin API key to show spend." : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Adicione uma Admin API key da OpenAI para mostrar o gasto."
+          }
+        }
+      }
+    },
+    "Admin key" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Admin key"
+          }
+        }
+      }
+    },
+    "All projects" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Todos os projetos"
+          }
+        }
+      }
+    },
+    "Allow Access…" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Permitir Acesso…"
+          }
+        }
+      }
+    },
+    "Allow Usage AI in System Settings › Login Items." : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Permita o Usage AI em Ajustes do Sistema › Itens de Início."
+          }
+        }
+      }
+    },
+    "Auto" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Auto"
+          }
+        }
+      }
+    },
+    "Cancel" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancelar"
+          }
+        }
+      }
+    },
+    "Checking…" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verificando…"
+          }
+        }
+      }
+    },
+    "Claude Code passes your plan limits to its status line. Usage AI adds a small script there that saves them and keeps your current status line. Usage updates while you use Claude Code. Per-model limits, such as Fable, need the OAuth source." : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O Claude Code envia os limites do seu plano para a status line. O Usage AI adiciona ali um pequeno script que salva esses dados e mantém sua status line atual. O uso é atualizado enquanto você usa o Claude Code. Limites por modelo, como o do Fable, exigem a fonte OAuth."
+          }
+        }
+      }
+    },
+    "Claude Code status line" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Status line do Claude Code"
+          }
+        }
+      }
+    },
+    "Claude Code's login expired. Run `claude` in Terminal to refresh it." : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O login do Claude Code expirou. Rode `claude` no Terminal para renová-lo."
+          }
+        }
+      }
+    },
+    "Claude and Cursor usage comes from undocumented endpoints and files that can change at any time. Usage AI is not affiliated with Anthropic, Anysphere or OpenAI." : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O uso do Claude e do Cursor vem de endpoints e arquivos não documentados, que podem mudar a qualquer momento. O Usage AI não tem vínculo com a Anthropic, a Anysphere ou a OpenAI."
+          }
+        }
+      }
+    },
+    "Connect" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Conectar"
+          }
+        }
+      }
+    },
+    "Connect Claude Code to show your plan limits." : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Conecte o Claude Code para mostrar os limites do seu plano."
+          }
+        }
+      }
+    },
+    "Connect Claude Code?" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Conectar o Claude Code?"
+          }
+        }
+      }
+    },
+    "Connect Claude, Cursor or OpenAI in Settings to see your usage here." : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Conecte o Claude, o Cursor ou a OpenAI nos Ajustes para ver seu uso aqui."
+          }
+        }
+      }
+    },
+    "Connected" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Conectado"
+          }
+        }
+      }
+    },
+    "Connected · %@" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Conectado · %@"
+          }
+        }
+      }
+    },
+    "Connect…" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Conectar…"
+          }
+        }
+      }
+    },
+    "Cookie" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cookie"
+          }
+        }
+      }
+    },
+    "Copied" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copiado"
+          }
+        }
+      }
+    },
+    "Copies states and error codes only — never tokens or usage values" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copia só estados e códigos de erro — nunca tokens ou valores de uso"
+          }
+        }
+      }
+    },
+    "Copy Diagnostics" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copiar Diagnóstico"
+          }
+        }
+      }
+    },
+    "Copy Snippet" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copiar Trecho"
+          }
+        }
+      }
+    },
+    "Copy the settings to add to ~/.claude/settings.json yourself" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copia a configuração para você mesmo adicionar ao ~/.claude/settings.json"
+          }
+        }
+      }
+    },
+    "Copy the value of the WorkosCursorSessionToken cookie from cursor.com in your browser." : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copie o valor do cookie WorkosCursorSessionToken de cursor.com no seu navegador."
+          }
+        }
+      }
+    },
+    "Couldn't load usage." : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Não foi possível carregar o uso."
+          }
+        }
+      }
+    },
+    "Couldn't update Claude Code settings" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Não foi possível atualizar os ajustes do Claude Code"
+          }
+        }
+      }
+    },
+    "Current session" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sessão atual"
+          }
+        }
+      }
+    },
+    "Daily spend, last 30 days" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gasto diário, últimos 30 dias"
+          }
+        }
+      }
+    },
+    "Day" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dia"
+          }
+        }
+      }
+    },
+    "Disconnect" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Desconectar"
+          }
+        }
+      }
+    },
+    "Don't show" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Não mostrar"
+          }
+        }
+      }
+    },
+    "Each service" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cada serviço"
+          }
+        }
+      }
+    },
+    "Extra usage" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uso extra"
+          }
+        }
+      }
+    },
+    "From the Cursor app" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Do app Cursor"
+          }
+        }
+      }
+    },
+    "General" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geral"
+          }
+        }
+      }
+    },
+    "Highest usage" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Maior uso"
+          }
+        }
+      }
+    },
+    "Icon only" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Só o ícone"
+          }
+        }
+      }
+    },
+    "Included usage" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uso incluído"
+          }
+        }
+      }
+    },
+    "Keychain" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chaves"
+          }
+        }
+      }
+    },
+    "Menu Bar" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Barra de Menus"
+          }
+        }
+      }
+    },
+    "Metric" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Métrica"
+          }
+        }
+      }
+    },
+    "Monthly budget" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Orçamento mensal"
+          }
+        }
+      }
+    },
+    "No Services Set Up" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nenhum serviço configurado"
+          }
+        }
+      }
+    },
+    "Not checked yet" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ainda não verificado"
+          }
+        }
+      }
+    },
+    "OAuth endpoint (unofficial)" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Endpoint OAuth (não oficial)"
+          }
+        }
+      }
+    },
+    "OK" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        }
+      }
+    },
+    "Offline. Showing the last known data." : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Offline. Mostrando os últimos dados conhecidos."
+          }
+        }
+      }
+    },
+    "On-demand" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sob demanda"
+          }
+        }
+      }
+    },
+    "Open Cursor" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abrir o Cursor"
+          }
+        }
+      }
+    },
+    "Open Login Items…" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abrir Itens de Início…"
+          }
+        }
+      }
+    },
+    "Open Settings…" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abrir Ajustes…"
+          }
+        }
+      }
+    },
+    "Open at login" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abrir ao iniciar sessão"
+          }
+        }
+      }
+    },
+    "Other" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Outros"
+          }
+        }
+      }
+    },
+    "Paste your Cursor session cookie in Settings." : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cole o cookie de sessão do Cursor nos Ajustes."
+          }
+        }
+      }
+    },
+    "Plan" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plano"
+          }
+        }
+      }
+    },
+    "Preview" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prévia"
+          }
+        }
+      }
+    },
+    "Project ID" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ID do projeto"
+          }
+        }
+      }
+    },
+    "Quit" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Encerrar"
+          }
+        }
+      }
+    },
+    "Quit Usage AI" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Encerrar Usage AI"
+          }
+        }
+      }
+    },
+    "Rate limited by %@. Trying again later." : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O %@ limitou as requisições. Tentando de novo mais tarde."
+          }
+        }
+      }
+    },
+    "Reads the login Claude Code keeps in the Keychain and calls an undocumented endpoint. It adds per-model limits, but Anthropic's terms restrict using subscription logins in other tools. Use at your own risk." : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lê o login que o Claude Code guarda nas Chaves e chama um endpoint não documentado. Mostra limites por modelo, mas os termos da Anthropic restringem o uso de logins de assinatura em outras ferramentas. Use por sua conta e risco."
+          }
+        }
+      }
+    },
+    "Refresh" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Atualizar"
+          }
+        }
+      }
+    },
+    "Refresh every" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Atualizar a cada"
+          }
+        }
+      }
+    },
+    "Refresh when the menu opens" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Atualizar ao abrir o menu"
+          }
+        }
+      }
+    },
+    "Remove" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remover"
+          }
+        }
+      }
+    },
+    "Replace" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Substituir"
+          }
+        }
+      }
+    },
+    "Requests · %@" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Requisições · %@"
+          }
+        }
+      }
+    },
+    "Resets %@" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Renova %@"
+          }
+        }
+      }
+    },
+    "Resets in %@" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Renova em %@"
+          }
+        }
+      }
+    },
+    "Resets soon" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Renova em instantes"
+          }
+        }
+      }
+    },
+    "Retry" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tentar de Novo"
+          }
+        }
+      }
+    },
+    "Save" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salvar"
+          }
+        }
+      }
+    },
+    "Session" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sessão"
+          }
+        }
+      }
+    },
+    "Session cookie" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cookie de sessão"
+          }
+        }
+      }
+    },
+    "Set Up…" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Configurar…"
+          }
+        }
+      }
+    },
+    "Settings…" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajustes…"
+          }
+        }
+      }
+    },
+    "Show" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mostrar"
+          }
+        }
+      }
+    },
+    "Show Claude" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mostrar Claude"
+          }
+        }
+      }
+    },
+    "Show Cursor" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mostrar Cursor"
+          }
+        }
+      }
+    },
+    "Show OpenAI" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mostrar OpenAI"
+          }
+        }
+      }
+    },
+    "Shown next to Claude in the menu. Claude Code's status line doesn't include it." : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aparece ao lado do Claude no menu. A status line do Claude Code não informa o plano."
+          }
+        }
+      }
+    },
+    "Shows spend from the official Costs API. Only organization owners can create an Admin key; a read-only one is enough. [Create a key](https://platform.openai.com/settings/organization/admin-keys)" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mostra o gasto pela Costs API oficial. Só proprietários da organização podem criar uma Admin key; uma somente leitura basta. [Criar uma chave](https://platform.openai.com/settings/organization/admin-keys)"
+          }
+        }
+      }
+    },
+    "Sign in to the Cursor app to show usage." : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entre no app Cursor para mostrar o uso."
+          }
+        }
+      }
+    },
+    "Some services have their own minimum: Cursor 1 min, Claude (OAuth) 2 min, OpenAI 10 min." : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alguns serviços têm um mínimo próprio: Cursor 1 min, Claude (OAuth) 2 min, OpenAI 10 min."
+          }
+        }
+      }
+    },
+    "Source" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fonte"
+          }
+        }
+      }
+    },
+    "Source code on GitHub" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Código-fonte no GitHub"
+          }
+        }
+      }
+    },
+    "Spend" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gasto"
+          }
+        }
+      }
+    },
+    "Starts when you send a message" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Começa quando você enviar uma mensagem"
+          }
+        }
+      }
+    },
+    "Status" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Status"
+          }
+        }
+      }
+    },
+    "Status line" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Status line"
+          }
+        }
+      }
+    },
+    "The bridge script is missing from the app." : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O script da ponte não está no app."
+          }
+        }
+      }
+    },
+    "The file couldn't be written. Check its permissions." : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Não foi possível gravar o arquivo. Verifique as permissões."
+          }
+        }
+      }
+    },
+    "The saved credential was rejected. Update it in Settings." : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A credencial salva foi recusada. Atualize-a nos Ajustes."
+          }
+        }
+      }
+    },
+    "This Claude token can't read usage. Log in again with `claude`." : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Este token do Claude não consegue ler o uso. Faça login de novo com `claude`."
+          }
+        }
+      }
+    },
+    "This OpenAI key can't read costs. Use an Admin API key." : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esta chave da OpenAI não lê custos. Use uma Admin API key."
+          }
+        }
+      }
+    },
+    "This month" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Este mês"
+          }
+        }
+      }
+    },
+    "Today (UTC)" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hoje (UTC)"
+          }
+        }
+      }
+    },
+    "Unexpected response. %@ may have changed its API." : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Resposta inesperada. O %@ pode ter mudado a API."
+          }
+        }
+      }
+    },
+    "Updated %@" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Atualizado %@"
+          }
+        }
+      }
+    },
+    "Updated just now" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Atualizado agora"
+          }
+        }
+      }
+    },
+    "Usage AI" : {
+      "shouldTranslate" : false
+    },
+    "Usage AI leaves the menu bar until you open it again." : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O Usage AI sai da barra de menus até você abri-lo de novo."
+          }
+        }
+      }
+    },
+    "Usage AI needs permission to read Claude Code's login in the Keychain." : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O Usage AI precisa de permissão para ler o login do Claude Code nas Chaves."
+          }
+        }
+      }
+    },
+    "Usage AI will point the status line in ~/.claude/settings.json to its script. A backup is saved next to it as settings.json.usage-ai-backup." : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O Usage AI vai apontar a status line do ~/.claude/settings.json para o script dele. Um backup fica salvo ao lado, como settings.json.usage-ai-backup."
+          }
+        }
+      }
+    },
+    "Usage AI: %@" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Usage AI: %@"
+          }
+        }
+      }
+    },
+    "Use color when near a limit" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Usar cor perto de um limite"
+          }
+        }
+      }
+    },
+    "Uses the session of the Cursor app on this Mac. Nothing to set up." : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Usa a sessão do app Cursor neste Mac. Nada para configurar."
+          }
+        }
+      }
+    },
+    "Version %@ (%@)" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Versão %1$@ (%2$@)"
+          }
+        }
+      }
+    },
+    "Waiting for Claude Code. Usage appears after your next message there." : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aguardando o Claude Code. O uso aparece depois da sua próxima mensagem nele."
+          }
+        }
+      }
+    },
+    "Weekly · %@" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Semanal · %@"
+          }
+        }
+      }
+    },
+    "Weekly · All models" : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Semanal · Todos os modelos"
+          }
+        }
+      }
+    },
+    "Your AI subscriptions' usage, in the menu bar." : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O uso das suas assinaturas de IA, na barra de menus."
+          }
+        }
+      }
+    },
+    "Your current status line keeps working." : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sua status line atual continua funcionando."
+          }
+        }
+      }
+    },
+    "~/.claude/settings.json isn't valid JSON. Fix it or use Copy Snippet." : {
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O ~/.claude/settings.json não é um JSON válido. Corrija o arquivo ou use Copiar Trecho."
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
