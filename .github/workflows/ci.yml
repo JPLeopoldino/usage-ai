@@ -1,0 +1,47 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  build-and-test:
+    runs-on: macos-26
+    env:
+      XCODEGEN_VERSION: 2.46.0
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install XcodeGen ${{ env.XCODEGEN_VERSION }}
+        run: |
+          curl -sSL -o xcodegen.zip "https://github.com/yonaskolb/XcodeGen/releases/download/${XCODEGEN_VERSION}/xcodegen.zip"
+          unzip -q xcodegen.zip -d "$RUNNER_TEMP/xcodegen"
+          echo "$RUNNER_TEMP/xcodegen/xcodegen/bin" >> "$GITHUB_PATH"
+
+      - name: Check the committed project matches project.yml
+        run: |
+          xcodegen generate
+          git diff --exit-code -- UsageAI.xcodeproj
+
+      - name: Test
+        run: |
+          xcodebuild test -project UsageAI.xcodeproj -scheme UsageAI \
+            -destination 'platform=macOS' -derivedDataPath build/DerivedData \
+            CODE_SIGN_IDENTITY=- -quiet
+
+      - name: Build Release
+        run: |
+          xcodebuild build -project UsageAI.xcodeproj -scheme UsageAI -configuration Release \
+            -destination 'platform=macOS' -derivedDataPath build/DerivedData \
+            CODE_SIGN_IDENTITY=- -quiet
+
+      - name: Check pt-BR translations
+        run: |
+          missing=$(jq -r '.strings | to_entries[]
+            | select(.value.shouldTranslate != false)
+            | select(.value.localizations["pt-BR"].stringUnit.state != "translated") | .key' \
+            Resources/Localizable.xcstrings)
+          if [ -n "$missing" ]; then
+            echo "::error::Missing pt-BR translations:"; echo "$missing"; exit 1
+          fi
