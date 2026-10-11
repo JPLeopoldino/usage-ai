@@ -1,0 +1,6 @@
+// Copy this file to Config/Local.xcconfig (gitignored) to sign with your own team.
+// A stable signature keeps the macOS Keychain "Always Allow" choice across rebuilds.
+
+// BUNDLE_ID_PREFIX = com.example
+// DEVELOPMENT_TEAM = ABCDE12345
+// CODE_SIGN_IDENTITY = Apple Development

@@ -1,0 +1,11 @@
+// Shared build settings. Do not put personal signing data here:
+// copy Local.xcconfig.example to Local.xcconfig (gitignored) instead.
+
+BUNDLE_ID_PREFIX = io.github.jpleopoldino
+
+// "Sign to Run Locally" (ad-hoc). Works without an Apple Developer account.
+CODE_SIGN_STYLE = Automatic
+CODE_SIGN_IDENTITY = -
+DEVELOPMENT_TEAM =
+
+#include? "Local.xcconfig"
